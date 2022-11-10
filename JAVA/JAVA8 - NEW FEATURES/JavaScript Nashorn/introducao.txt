@@ -1,0 +1,20 @@
+Curiosidade: Os releases do JAVA não estão limitados a API da linguagem, a JVM também acaba
+passando por mudanças e melhorias a cada release.
+
+JavaScript Nashorn:
+
+- Capacidade de rodar códigos JavaScript nativamente na JVM;
+
+- Nashorn = Rhino (Mozilla);
+
+- Execução JavaScript:
+  - jjs (Linha de comando);
+  - Embarcar junto ao código Java; 
+
+Vantagens??
+
+- Modificar parte lógica sem recompilar;
+
+- Flexibilidade;
+
+- Interoperabilidade;
