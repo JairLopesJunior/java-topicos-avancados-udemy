@@ -4,3 +4,9 @@ Optional
 ter valor nulo;
 
 - Lidar com a exceção NullPointerException;
+
+- Optional não verifica se é null ou não é null, ele verifica se contem ou não um determinado objeto.
+
+- Optional não implementa a interface Serializable, logo o objeto a partir desta classe não pode ser serializado.
+
+- A classe Optional não possui construtores publicos, somente metodos estaticos.
