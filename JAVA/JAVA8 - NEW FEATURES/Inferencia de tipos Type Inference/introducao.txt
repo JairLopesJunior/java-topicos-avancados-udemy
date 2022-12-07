@@ -1,0 +1,8 @@
+Inferência de tipos (Type Inference)
+
+- Capacidade do compilador em determinar o(s) tipo(s) do(s) argumento(s), que não foi(rão)
+definido(s) explicitamente, apenas olhando para o método invocado e sua declaração correspondente.
+
+- Conceito de Generics - JDK5 e o operador Diamont <> JDK7.
+
+Ex: List<Objeto>

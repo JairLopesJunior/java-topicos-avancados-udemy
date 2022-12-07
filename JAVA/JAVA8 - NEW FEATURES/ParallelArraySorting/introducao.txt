@@ -1,0 +1,5 @@
+Parallel Array Sorting
+
+- Ordernar os elementos do array paralelamente;
+
+- Arrays.parallelSort();

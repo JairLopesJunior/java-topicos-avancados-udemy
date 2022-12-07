@@ -1,0 +1,6 @@
+Inferência de tipos (Type inference) JAVA 8
+
+- Capacidade do compilador em determinar os tipos dos argumentos, que não forão definidos explicitamente, apenas olhando para o 
+método invocado e sua declaração correspondente.
+
+- Conceito de Generics - JDK5 e o operador Diamont <> JDK7.
