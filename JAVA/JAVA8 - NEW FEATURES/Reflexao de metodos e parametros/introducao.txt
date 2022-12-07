@@ -1,0 +1,18 @@
+Reflexão de métodos e parâmetros
+
+- java.lang.reflect.*;
+
+- Obter informações sobre métodos e parâmetros de uma classe ou de uma instância em tempo de execução.
+
+Classe:             Descrição:
+
+- Construtor        Fornece informações sobre o construtor da classe.
+- Field             Fornece informações sobre os atributos membros da classe/interface
+- Method            Fornece informações sobre os métodos da classe/interface.
+- Parameter         Fornece informaçoes sobre os parâmetros do método.
+- Modifier          Fornece informações sobre a classe e os modificadores de acesso aos membros da classe.
+
+
+Vantagens:
+
+- Fácil manutenção do código, ganho de produtividade e extensibilidade.
