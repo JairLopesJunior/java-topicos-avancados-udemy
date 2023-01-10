@@ -1,0 +1,10 @@
+Interfaces com métodos privados
+
+- Interface em Java não é uma classe. Trata-se de uma lista de métodos abstratos paraum determinado fim, onde a implementação desses
+métodos são disponibilizadas em uma classe separada. Uma interface, além de métodos abstratos, pode conter atributos públicos 
+inicializados (fields).
+
+- No Java 8 foi introduzido os metodos default que pode ser implementado na própria interface, e sem obrigar as classes que implementarem
+essa interface a implementar o metodo default.
+
+- No Java 9 podemos definir metodos privados já com a sua implementação e também metodos privados staticos dentro da interface .
