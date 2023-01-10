@@ -1,0 +1,18 @@
+Sistema de Módulos (Projeto Jigsaw)
+
+- Java 9 Module System (É a principal mudança na versão 9 do Java, este recurso foi adicionado para reunir pacotes e codigo Java 
+em uma única unidade chamada de modulo. A partir do momento que o codigo Java e os pacotes vem crescendo aos longos do release
+tem ficado cada vez mais dificil a manutenção e organização do codigo em uma aplicação Java e as chances de tornalo complicado
+e suscetível a se tornar emaranhado tem crescido o chamado código espaguete, e isso é um problema, por isso a Oracle decidei abraçar 
+o projeto geek e incorporá-lo ao JDK9).
+
+- module-info.java (É o arquivo (Descritor de Módulo) que serve para modularizar a aplicação, ele irá descrever a estrutura de 
+módulos e diretórios)
+
+exports = Serve para exportar o pacote
+requires = Serve para utilizar o pacote
+
+Ex: 
+module SaudacaoDemo {
+    requires ModuloSaudacao;
+}
