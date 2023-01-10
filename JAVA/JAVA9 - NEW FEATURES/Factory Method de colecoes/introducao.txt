@@ -1,0 +1,9 @@
+Factory Method de Coleções:
+
+- List, Map, Set;
+
+- Métodos para criação de instâncias de coleções imutáveis.
+
+    List<String> frutasList = List.of("Banana", "Maça", "Pera");
+
+- Métodos para criação de instâncias de coleções imutáveis.
