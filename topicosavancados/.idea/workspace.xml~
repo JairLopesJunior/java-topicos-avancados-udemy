@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9f0de27-cb9a-48d9-a148-bc27a172b28e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchWithResource/TryCatchBeforeJava7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchWithResource/TryCatchWithAutoCloseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchWithResource/TryWithResourceJava9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchWithResource/file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GyQA7d3ELlz3v0D3MoHPJi8hPm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TryCatchWithAutoCloseable">
+    <configuration name="AnnotationExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula13.AnnotationExemplo" />
+      <module name="topicosavancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringJoinerExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula07.StringJoinerExemplo" />
+      <module name="topicosavancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteEvento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aula17.TesteEvento" />
+      <module name="topicosavancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aula17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchBeforeJava7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchWithResource.TryCatchBeforeJava7" />
+      <module name="topicosavancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TryCatchWithResource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchWithAutoCloseable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchWithResource.TryCatchWithAutoCloseable" />
+      <module name="topicosavancados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TryCatchWithResource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TryCatchWithAutoCloseable" />
+        <item itemvalue="Application.TryCatchBeforeJava7" />
+        <item itemvalue="Application.TesteEvento" />
+        <item itemvalue="Application.StringJoinerExemplo" />
+        <item itemvalue="Application.AnnotationExemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9f0de27-cb9a-48d9-a148-bc27a172b28e" name="Changes" comment="" />
+      <created>1667358202807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667358202807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

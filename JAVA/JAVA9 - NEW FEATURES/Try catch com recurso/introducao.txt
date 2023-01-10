@@ -1,0 +1,12 @@
+Try-catch com recursos:
+
+Molhoria no bloco try-catch com recursos:
+
+- O bloco try ccom recursos assegura que cada recurso alocado seja fechado e liberado no final do bloco.
+
+- O bloco try com recursos existe desde o Java 7 (Interface AutoCloseable)
+
+	try(recurso) {
+	    ....
+	}
+
