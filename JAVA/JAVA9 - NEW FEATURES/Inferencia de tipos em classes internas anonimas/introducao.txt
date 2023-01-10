@@ -1,0 +1,3 @@
+Inferência de tipos em classes internas anônimas:
+
+- Classe interna anônima: Classe sem nome na qual uma única instância é criada.

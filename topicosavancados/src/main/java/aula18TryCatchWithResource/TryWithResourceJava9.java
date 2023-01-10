@@ -1,21 +1,23 @@
-package TryCatchWithResource;
+package aula18TryCatchWithResource;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class TryCatchWithAutoCloseable {
+public class TryWithResourceJava9 {
 
     public static void main(String[] args) throws IOException {
 
         lerArquivo("C:\\Users\\Oem\\Documents\\Projetos GIT-HUB\\UDEMY\\java-topicos-avancados-udemy\\topicosavancados\\src\\main\\java\\TryCatchWithResource\\file.txt");
     }
 
-    // Esta forma é possivel ser feita a partir do Java 7
+    // Novidade no Java 9
     private static void lerArquivo(String path) throws IOException {
         String linha = "";
 
-        try(BufferedReader br = new BufferedReader(new FileReader(path))) {
+        BufferedReader br = new BufferedReader(new FileReader(path));
+
+        try(br) {
             while((linha = br.readLine()) != null) {
                 System.out.println(linha);
             }
