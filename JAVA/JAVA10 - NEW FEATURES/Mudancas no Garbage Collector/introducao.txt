@@ -1,0 +1,12 @@
+Mudanças no Garbage-Collector:
+
+O Coletor de Lixo no Java 9 era chamado de G1, e ele passou por melhorias de performance no release 10.
+
+- Melhorias na performance G1.
+
+- Paralelismo em Full GC;
+
+- Interface do GC.
+  - Melhor modularidade;
+  - Novo GC sem alterar o código base;
+  - Tornar mais fácil a manutenção;
