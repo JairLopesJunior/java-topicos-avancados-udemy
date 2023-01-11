@@ -1,0 +1,20 @@
+Métodos readString() e writeString() da classe Files:
+
+O tipo de arquivo TXT é inerente ao SO, então a tabela de caracteres a qual pertence este arquivo é do tipo ISO8859, senão especificar nada no metodo writeString()
+ele assume por padrão UTF-8.
+
+Ex do método writeString():
+
+String caminho = "meuTexto.txt";
+String meuTexto = "Curso Java Tópicos Avançados";
+Files.writeString(new File(caminho).toPath(), meuTexto);
+
+
+
+Ex do método writeString():
+
+String caminho = "meuTexto.txt";
+String s = Files.readString(new File(caminho).toPath());
+System.out.println(s);
+
+Obs: Também precisa especificar a tabela de caracteres se for diferente de UTF-8;
