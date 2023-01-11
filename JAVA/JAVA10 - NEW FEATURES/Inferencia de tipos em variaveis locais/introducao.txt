@@ -1,0 +1,13 @@
+Inferência de tipos em variáveis locais:
+
+- Palavra-reservada var;
+
+- Dese ser declarada como local e inicializada;
+
+- Pode ser usado no Enhanced For Loop;
+
+- Pode ser usado como índice laço For tradicional;
+
+// Por que utilizar o var? (Ajuda a simplicar a digitação do código)        
+> ArrayIndexOutOfBoundsException e = new ArrayIndexOutOfBoundsException();
+> var ex = new ArrayIndexOutOfBoundsException();
