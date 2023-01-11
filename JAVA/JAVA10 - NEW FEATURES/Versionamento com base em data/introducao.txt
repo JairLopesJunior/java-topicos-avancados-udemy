@@ -1,0 +1,4 @@
+Versionamento com base no tempo:
+
+> -version = Ao executar este comando no terminal, ao lado da versão da JDK irá aparecer uma data, a grande vantagem nesta mudança é que conseguimos descobrir
+quando o release do Java foi disponibilizado, ou seja, conseguimos descobrir a "idade" da versão do Java.
