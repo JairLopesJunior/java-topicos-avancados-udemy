@@ -1,0 +1,12 @@
+Melhorias na API Stream:
+
+- Novos métodos na interface Stream;
+
+Modifier and Type         Method
+default Stream<T>         takeWhile(Predicate<? super T> predicate)
+default Stream<T>         dropWhile(Predicate<? super T> predicate)
+
+- takeWhile = É parecido com o filter, ele busca em sequencia os elementos que satisfaça o predicado (Ou seja a lógica Ex: p -> p.getDescription().contains("Geladeira"))
+se algum deles não satisfazer, ele retorna somente os que achou ate aquele momento.
+
+- dropWhile - É o oposto do takeWhile, ele tráz tudo que não satisfaça o predicado na segunda vez para frente.
