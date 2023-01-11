@@ -1,0 +1,16 @@
+Novas Características do Java 11:
+
+- Oracle JDK pago! D: (Até o Java 10 o JDK da Oracle era 100% gratuito, inclusive para aplicações comerciais, uma alternativa OpenSource é o Open JDK);
+
+- JRE não incluso - sem auto-updates; (A partir do release 11 o JRE não é mais oferecido junto ao download do JDK, o JRE é baixado e instalado separadamente
+buscando o conceito de modularidade da plataforma.);
+
+- Extinção da pilha de implantação (deployment stack);
+
+- Mudanças na classe String;
+
+- Compilar a aplicação usando o comando java;
+
+- Variável local em parâmetros lambda;
+
+- Introdução readString() e writeString() na classe Files;
