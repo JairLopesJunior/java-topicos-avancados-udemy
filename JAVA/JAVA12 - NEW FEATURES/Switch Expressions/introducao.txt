@@ -1,0 +1,29 @@
+Switch Expressions (preview):
+
+O que é new feature (preview)?
+R: Significa que não temos certeza se essa new feature irá ser mantida no proximos JDKs.
+
+- Recurso mais popular do Java 12;
+
+- Sintaxe lambda ->;
+
+- Elimina necessidade do break;
+
+- Múltiplas constantes em um único case;
+
+- Sintaxe mais compacta e legível;
+
+- Atribuir o resultado do switch diretamente a uma variável;
+
+- O case default passa a ser obrigatório;
+
+Ex:
+        String resultado = "";
+
+        // JAVA 12
+        resultado = switch(dia) {
+            case "Segunda", "Terça", "Quarta", "Quinta", "Sexta" -> "Dia útil";
+            case "Sabado" -> "Final de Semana";
+            case "Domingo" -> "Final de Semana";
+            default -> "Dia inválido!!"; // É obrigatório o DEFAULT
+        };
