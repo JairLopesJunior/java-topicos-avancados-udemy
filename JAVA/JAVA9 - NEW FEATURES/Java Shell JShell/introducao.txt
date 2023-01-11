@@ -1,0 +1,4 @@
+Java Shell (JShell):
+
+- Read-Eval-Print-Loop (REPL) = O Java assim como outras linguagens incorporou a capacidade de escrever e executar código diretamente
+no console a partir do release 9, utilizando a ferramenta JShell, para utilizar basta escrever jshell no console do Linux.
