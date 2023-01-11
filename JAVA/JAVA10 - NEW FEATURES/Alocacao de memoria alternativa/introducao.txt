@@ -1,0 +1,5 @@
+Alocação de memória alternativa:
+
+- DIMM = A mais comun arquitetura da mémoria RAM.
+- NV = Não volatil, ou seja, quando o computador desligar não vai perder os dados.
+- NV-DIMM
