@@ -1,0 +1,5 @@
+Var em parâmetros lambda:
+
+Ex:
+
+Function<String, String> concatena = (var s) -> s + ". ";
