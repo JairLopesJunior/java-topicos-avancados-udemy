@@ -1,0 +1,12 @@
+Novos métodos da Classe String:
+
+isBlank() = Retorna um valor booleano, ou seja, verdadeiro se a String for vazio e false se não for (Importante ressaltar que se a String ter espaços em branco
+ela será considerada uma String vazia retornando true);
+
+lines() = Este método analiza a String e ele elimina as quebras de linhas contidas;
+
+Ex: 
+String str = "Java\nTópicos\nAvançados";
+System.out.println(str.lines().collect(Collectors.joining(" ")));
+
+- repeat() = Ele repete o conteudo da String pelo número de vezes passado por parâmetro.
