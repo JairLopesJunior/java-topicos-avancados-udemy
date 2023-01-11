@@ -1,0 +1,6 @@
+HTTP/2
+
+- jdk.incubator.http;
+
+O HTTP2 passou a ser um protocolo de rede binária ao invés de texto como era antes, permitindo multiplexar inumeras requisições em uma única conexão
+TCP, falando de uma forma mais simples, o HTTP2 faz com que as páginas carreguem mais rapido.
