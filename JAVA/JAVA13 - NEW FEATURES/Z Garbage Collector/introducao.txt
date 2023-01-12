@@ -1,0 +1,11 @@
+Z Garbage Collector (JEP 351):
+
+- JPE (JDK Enhancement Proposals) = Serve para documentar uma melhoria que ainda não está oficializada pela Oracle;
+
+- JSR (Java Specification Request) = É um documento formal e passa pelo comite JCP (Java Community Process) que define as novas melhorias;
+
+- Introduzido JDK 11 (apenas Linux/ x64);
+
+- Escalável e baixa latência (<= 10 ms);
+
+- Realocação do Heap. (JDK 13);
