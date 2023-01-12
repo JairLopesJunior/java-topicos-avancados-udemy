@@ -1,0 +1,23 @@
+Correspondência de Padrões para instanceof (preview):
+
+- instanceof é um operador usado para testar se o objeto é uma instância de um tipo específico;
+
+- Java 14: type casting implícito para instanceof;
+
+Antes do Java 14:
+
+if(animal instanceof Cat) {
+  Cat cat = (Cat) animal;
+  cat.meow();
+} else if(animal instanceof Dog) {
+  Dog dog = (Dog) animal;
+  dog.woof();
+}
+
+Depois do Java 14:
+
+if(animal instanceof Cat cat) {
+  cat.meow();
+} else if(animal instanceof Dog dog) {
+  dog.woof();
+}
