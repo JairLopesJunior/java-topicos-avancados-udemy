@@ -2,4 +2,4 @@ Switch Expressions (preview) (JEP 354):
 
 - Abolição do break;
 
-- Yield;
+- Yield = Foi criado para substituir a palavra reservada break;

@@ -1,0 +1,3 @@
+Nova implementação Socket API (JEP 353):
+
+- java.net.Socket e java.net.ServerSocket;
