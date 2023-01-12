@@ -1,0 +1,23 @@
+Records (preview) (JEP 359): 
+
+- Introdução da palavra reservada records;
+
+- Simplificar implementação POJO (Plain Old Java Object);
+
+- Gerar automaticamente métodos de construção, getters, equals. hashCode e toString;
+
+- Minimizar erros de implementação;
+
+Detalhes importantes de um records:
+
+- Não pode estender ou ser estendido;
+
+- Records não podem ser abstratos;
+
+- Não pode haver variáveis de instância na estrutura;
+
+- Todos os atributos são definidos como privados e final;
+
+- A estrutura permite implementar interfaces;
+
+- A estrutura permite métodos estáticos.
