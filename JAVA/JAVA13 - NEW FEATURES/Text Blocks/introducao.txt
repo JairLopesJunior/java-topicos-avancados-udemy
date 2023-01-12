@@ -1,0 +1,9 @@
+Text Blocks (preview) (JEP 355): 
+
+- Permite criar Strings com multiplas linhas utilizando 3 pares de aspas;
+
+- Preview feature;
+
+- 3 pares de aspas;
+
+- Não se aplica a String de única linha;
