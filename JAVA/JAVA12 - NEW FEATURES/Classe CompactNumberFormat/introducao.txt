@@ -1,0 +1,8 @@
+Classe CompactNumberFormat:
+
+- Module java.base;
+  - Package java.text.CompactNumberFormat;
+
+- Estende da classe NumberFormat;
+
+- public static NumberFormat getCompactNumberInstance(Locale locale, NumberFormat.Style formatStyle);
