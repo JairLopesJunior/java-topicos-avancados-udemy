@@ -1,0 +1,7 @@
+Text Blocks (preview) (JEP 368):
+
+- Caracteres de escape;
+
+- \ (Para indicar fim da linha, porém a quebra de linha não é inserida);
+
+- \s (Para indicar espaço único);
