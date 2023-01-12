@@ -1,0 +1,7 @@
+Apresentando Java 14:
+
+Switch Expressions:
+
+- Preview feature no JDK 12 e 13;
+
+- Padronização;
