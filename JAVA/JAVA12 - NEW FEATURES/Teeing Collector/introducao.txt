@@ -1,0 +1,7 @@
+Teeing Collector:
+
+- Module java.base;
+  - Package java.util.stream.Collectors;
+
+- public static<T, R1, R2, R> Collector<T, ?, R> teeing(Collector<? super T, ?, R1> downstream1, Collecto<? super T, ?, R2> downstream2, 
+BiFunction<? super R1, R> merger)
