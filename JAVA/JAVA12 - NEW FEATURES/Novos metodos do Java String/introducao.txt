@@ -1,0 +1,5 @@
+Novos métodos do Java String:
+
+- indent() = Serve para definir um recuo de linha com base em um valor inteiro passado como parametro da função;
+
+- transform() = Ele recebe como parametro uma função como argumento para ser aplicada a String;
