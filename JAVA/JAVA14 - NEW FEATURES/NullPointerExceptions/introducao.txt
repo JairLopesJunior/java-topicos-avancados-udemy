@@ -1,0 +1,3 @@
+NullPointerExceptions (JEP 358):
+
+- Mensagem mais detalhadas = A partir do Java 14 a JVM é capaz de mostrar com precisão qual variavel ou metodo esta resultando em um valor null;
