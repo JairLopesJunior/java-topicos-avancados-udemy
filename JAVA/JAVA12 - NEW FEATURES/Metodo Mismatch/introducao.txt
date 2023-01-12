@@ -1,0 +1,7 @@
+Classe Files - Método mismatch (incompatibilidade):
+
+- Module java.base;
+  - Package java.nio.file;
+
+- static long mismatch(Path path1, Path path2) = É utilizado para comparar dois arquivos e encontrar a posição do primeiro byte diferente em seus conteudos, se ambos
+os arquivos forem identicos o metodo retornará o valor -1;
